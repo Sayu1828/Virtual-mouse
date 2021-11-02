@@ -6,6 +6,6 @@ It is a mouse simulation system which performs all the functions performed by yo
 
 Please install all the required dependencies.
 
-openCV - (For image processing and drawing)
-mediapipe - (For Hand Tracking)
-pyautogui - (For controlling the mouse movement and click)
+1) openCV - (For image processing and drawing)
+2) mediapipe - (For Hand Tracking)
+3) pyautogui - (For controlling the mouse movement and click)
