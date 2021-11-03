@@ -2,6 +2,9 @@
 
 Virtual mouse is a mouse simulation system which performs all the functions performed by your mouse corresponding to your hand movements and gestures. Simply speaking, a camera captures your video and depending on your hand gestures, you can move the cursor and perform left click. 
 
+![image](https://user-images.githubusercontent.com/89973266/140019593-6ce6d6c2-1109-4e20-bc00-361f75210ef7.png)
+
+
 # Dependencies
 
 Please install all the required dependencies.
